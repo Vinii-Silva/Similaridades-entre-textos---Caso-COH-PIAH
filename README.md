@@ -1,2 +1,2 @@
-# Similaridades-entre-textos---Caso-COH-PIAH
+# Similaridades entre textos Caso COH-PIAH
 COH-PIAH
