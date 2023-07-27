@@ -1,7 +1,8 @@
 # Similaridades entre textos Caso COH-PIAH
- <p>
+ <body>
    COH-PIAH
-   <\p>
+ </body>
+ 
 # Introdução
 John é monitor na matéria de Introdução à Produção Textual I na Penn State University (PSU). Durante esse período, John descobriu que uma epidemia de COH-PIAH estava se espalhando pela PSU. Essas doenças raras e altamente contagiosas fazem com que as pessoas contaminadas produzam textos extremamente semelhantes de forma involuntária. Após a entrega da primeira redação, John desconfiou que alguns alunos estavam sofrendo de COH-PIAH. John, se preocupando com a saúde da turma, preferiu buscar um método para identificar os casos de COH-PIAH. Para isso, ele precisa da sua ajuda para desenvolver um programa que o auxilie a identificar os alunos contaminados.
 
